@@ -1,13 +1,13 @@
 {
   "name": "slashml-memory",
-  "version": "1.0.11",
-  "description": "Sub-millisecond persistent memory, behavioral code search, and bug localization skill for OpenAI Codex.",
+  "version": "1.0.14",
+  "description": "Sub-millisecond persistent memory, inline redaction & per-agent access scoping, behavioral code search, and bug localization skill for OpenAI Codex.",
   "author": {
     "name": "SlashML",
     "url": "https://slashml.ai"
   },
   "homepage": "https://slashml.ai",
-  "repository": "https://github.com/slashml-ai/codex-slashml-memory",
+  "repository": "https://github.com/slashml-ai/ml-memory",
   "license": "Apache-2.0",
   "skills": [
     "./skills/slashml-memory"
